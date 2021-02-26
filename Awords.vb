@@ -2048,13 +2048,13 @@ Public Class Awords
                 Dim strAntonym As String
 
                 'Details
-                strWord = "Amuhelisa"
+                strWord = "Amuhelisa(amuhelisize)"
                 strPrtOfSpeech = " "
-                strDefinition = " "
+                strDefinition = "to help to receive"
                 strExampleLozi = "  "
                 strExampleTEng = "  "
                 strDerivative = ""
-                strOtherForms = ""
+                strOtherForms = " &.1) rec. -amuhelana (amuhelani) to receive each other. spec. &.2) exp. Ku amuhelana ka manzwi, to converse. Ku amuhelana ka ku opela, to sing together(one sing ing the solo and others singing the chorus)"
                 strWordOrigin = ""
                 strSyn = " "
                 strAntonym = ""
@@ -2092,8 +2092,8 @@ Public Class Awords
                 Dim strAntonym As String
 
                 'Details
-                strWord = "Amuka"
-                strPrtOfSpeech = " "
+                strWord = "Amuka(amukile)"
+                strPrtOfSpeech = "V.i "
                 strDefinition = " "
                 strExampleLozi = "  "
                 strExampleTEng = "  "
